@@ -93,8 +93,8 @@ renderLargerThumbnail: true
 {quoted:code })
                     } catch (e) {
                             let ddd = sock.sendMessage(sock.user.id, { text: e });
-                            let desc = `*👋𝐒𝐇𝐎𝐍𝐔-𝐗-𝐌𝐃 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐧𝐧𝐞𝐜𝐭𝐞𝐝 . . .*\n\n*🅳🅾🅽'🆃 🆂🅷🅰🆁🅴 🆃🅷🅸🆂 🅲🅾🅳🅴 🆆🅸🆃🅷 🅰🅽🆈🅾🅽🅴!*\n\n*ꜱʀɪ ʟᴀɴᴋᴀɴ ʙᴇꜱᴛ ᴡʜᴀᴛꜱᴀᴘᴘ ᴜꜱᴇʀ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ - ᴍʀ.ʟᴀᴋꜱʜᴀɴ ᴅᴀᴍᴀʏᴀɴᴛʜᴀ.*\n\n🔰 *🅹🅾🅸🅽 -*https://whatsapp.com/channel/0029Vb5pvxO9cDDeMveqo31B\n\n🔰 *🅶🅸🆃🅷🆄🅱 🆁🅴🅿🅾 -*https://github.com/username/repo name\n\n> *𝙿𝙾𝚆𝙴𝚁𝙳 𝙱𝚈 𝚂𝙷𝙾𝙽𝚄 𝚇 〽️𝙳*;
-                            await sock.sendMessage(sock.user.id, {
+                            let desc = `*👋𝐒𝐇𝐎𝐍𝐔-𝐗-𝐌𝐃 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐧𝐧𝐞𝐜𝐭𝐞𝐝 . . .*\n\n*🅳🅾🅽'🆃 🆂🅷🅰🆁🅴 🆃🅷🅸🆂 🅲🅾🅳🅴 🆆🅸🆃🅷 🅰🅽🆈🅾🅽🅴!*\n\n*ꜱʀɪ ʟᴀɴᴋᴀɴ ʙᴇꜱᴛ ᴡʜᴀᴛꜱᴀᴘᴘ ᴜꜱᴇʀ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ - ᴍʀ.ʟᴀᴋꜱʜᴀɴ ᴅᴀᴍᴀʏᴀɴᴛʜᴀ.*\n\n🔰 *🅹🅾🅸🅽 -*https://whatsapp.com/channel/0029Vb5pvxO9cDDeMveqo31B\n\n🔰 *🅶🅸🆃🅷🆄🅱 🆁🅴🅿🅾 -*https://github.com/username/repo name\n\n> *𝙿𝙾𝚆𝙴𝚁𝙳 𝙱𝚈 𝚂𝙷𝙾𝙽𝚄 𝚇 〽️𝙳*`;
+                            await sock.sendMessage(sock.user.id,}
 text: desc,
 contextInfo: {
 externalAdReply: {
@@ -104,7 +104,7 @@ sourceUrl: "https://whatsapp.com/channel/0029Vb5pvxO9cDDeMveqo31B",
 mediaType: 2,
 renderLargerThumbnail: true,
 showAdAttribution: true
-}  
+}
 }
 },
 {quoted:ddd })
